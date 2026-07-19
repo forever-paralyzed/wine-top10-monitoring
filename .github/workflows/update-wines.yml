@@ -1,0 +1,41 @@
+name: Daily Wine Price Update
+
+on:
+  schedule:
+    # Запуск каждый день в 12:00 UTC (это 13:00 по португальскому времени)
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Добавляет кнопку для ручного запуска в интерфейсе GitHub
+
+jobs:
+  update-wines:
+    runs-on: ubuntu-latest
+
+    # Даем роботу права на запись, чтобы он мог обновить файл wines.json в репозитории
+    permissions:
+      contents: write
+
+    steps:
+      - name: Проверяем код репозитория
+        uses: actions/checkout@v4
+
+      - name: Устанавливаем Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Устанавливаем зависимости
+        run: npm install
+
+      - name: Устанавливаем браузер Chromium для Playwright
+        run: npx playwright install chromium
+
+      - name: Запускаем парсер вин
+        run: node parser.js
+
+      - name: Сохраняем обновленный wines.json в репозиторий
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add wines.json
+          # Пушим только если файл действительно изменился
+          git diff-index --quiet HEAD || (git commit -m "Автообновление цен: $(date)" && git push)

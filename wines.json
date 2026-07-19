@@ -1,0 +1,125 @@
+{
+  "updatedAt": "2026-07-19T16:25:54.283Z",
+  "wines": [
+    {
+      "overallPlace": 1,
+      "category": "Vinho do Porto",
+      "categoryPlace": "Ruby/Tawny",
+      "producerRegion": "Douro",
+      "enologist": "Taylor's / Kopke",
+      "searchQuery": "Porto Tawny",
+      "name": "1890 Burmester Novidade Porto",
+      "price": "1290",
+      "buyUrl": "https://www.garrafeiranacional.com/1890-burmester-novidade-porto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/3/1/3190002-0.jpg"
+    },
+    {
+      "overallPlace": 2,
+      "category": "Vinho Verde",
+      "categoryPlace": "Легкое белое",
+      "producerRegion": "Minho",
+      "enologist": "Anselmo Mendes",
+      "searchQuery": "Vinho Verde branco",
+      "name": "Casal Garcia branco",
+      "price": "3.95",
+      "buyUrl": "https://www.garrafeiranacional.com/casal-garcia-branco.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6080013-0.jpg"
+    },
+    {
+      "overallPlace": 3,
+      "category": "Touriga Nacional",
+      "categoryPlace": "Сухое красное",
+      "producerRegion": "Dão",
+      "enologist": "Sogrape",
+      "searchQuery": "Touriga Nacional tinto",
+      "name": "2013 Chryseia tinto",
+      "price": "139.95",
+      "buyUrl": "https://www.garrafeiranacional.com/2013-chryseia-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6060444-0.jpg"
+    },
+    {
+      "overallPlace": 4,
+      "category": "Madeira",
+      "categoryPlace": "Крепленое",
+      "producerRegion": "Madeira",
+      "enologist": "Justino's",
+      "searchQuery": "Madeira doce",
+      "name": "Madeira Barbeito Doce 3 anos",
+      "price": "11.95",
+      "buyUrl": "https://www.garrafeiranacional.com/madeira-barbeito-doce-3-anos.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/9/1/9180146-0.jpg"
+    },
+    {
+      "overallPlace": 5,
+      "category": "Douro Tinto",
+      "categoryPlace": "Мощное красное",
+      "producerRegion": "Douro",
+      "enologist": "Barca Velha",
+      "searchQuery": "Barca Velha",
+      "name": "1982 Barca Velha tinto",
+      "price": "799",
+      "buyUrl": "https://www.garrafeiranacional.com/1982-barca-velha-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6060001-0.jpg"
+    },
+    {
+      "overallPlace": 6,
+      "category": "Alentejo Tinto",
+      "categoryPlace": "Мягкое красное",
+      "producerRegion": "Alentejo",
+      "enologist": "Pêra-Manca",
+      "searchQuery": "Pera-Manca tinto",
+      "name": "2001 Pera-Manca tinto",
+      "price": "819",
+      "buyUrl": "https://www.garrafeiranacional.com/2001-pera-manca-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6010092-0.jpg"
+    },
+    {
+      "overallPlace": 7,
+      "category": "Dão",
+      "categoryPlace": "Элегантное",
+      "producerRegion": "Dão",
+      "enologist": "Classic Blend",
+      "searchQuery": "Dao tinto Reserva",
+      "name": "2022 Cabriz Reserva tinto",
+      "price": "9.95",
+      "buyUrl": "https://www.garrafeiranacional.com/2022-cabriz-reserva-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6042747-0.jpg"
+    },
+    {
+      "overallPlace": 8,
+      "category": "Moscatel de Setúbal",
+      "categoryPlace": "Десертное",
+      "producerRegion": "Setúbal",
+      "enologist": "José Maria da Fonseca",
+      "searchQuery": "Moscatel de Setubal",
+      "name": "Moscatel de Setúbal José Maria da Fonseca Torna Viagem 50cl",
+      "price": "1390",
+      "buyUrl": "https://www.garrafeiranacional.com/moscatel-de-setubal-jose-maria-da-fonseca-torna-viagem-50cl.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/9/1/9120012-0.jpg"
+    },
+    {
+      "overallPlace": 9,
+      "category": "Baga",
+      "categoryPlace": "Танинное",
+      "producerRegion": "Bairrada",
+      "enologist": "Filipa Pato",
+      "searchQuery": "Baga tinto Bairrada",
+      "name": "2015 Niepoort Quinta de Baixo Poeirinho Baga tinto",
+      "price": "34.95",
+      "buyUrl": "https://www.garrafeiranacional.com/2015-niepoort-quinta-de-baixo-poeirinho-baga-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6030463-0.jpg"
+    },
+    {
+      "overallPlace": 10,
+      "category": "Aguardente",
+      "categoryPlace": "Бренди",
+      "producerRegion": "Portugal",
+      "enologist": "Adega Velha",
+      "searchQuery": "Aguardente Velha",
+      "name": "Aguardente Vínica Chancella Velha",
+      "price": "18.95",
+      "buyUrl": "https://www.garrafeiranacional.com/aguardente-chancella-velha.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/4/0/4010027-0.jpg"
+    }
+  ]
+}

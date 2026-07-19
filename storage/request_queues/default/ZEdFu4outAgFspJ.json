@@ -1,0 +1,9 @@
+{
+	"id": "ZEdFu4outAgFspJ",
+	"json": "{\"id\":\"ZEdFu4outAgFspJ\",\"url\":\"https://bebida.pt/news/top-10-vinhos-portugueses-vencedores-no-essencia-do-vinho/\",\"loadedUrl\":\"https://bebida.pt/news/top-10-vinhos-portugueses-vencedores-no-essencia-do-vinho/\",\"uniqueKey\":\"https://bebida.pt/news/top-10-vinhos-portugueses-vencedores-no-essencia-do-vinho\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-07-15T19:10:02.688Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://bebida.pt/news/top-10-vinhos-portugueses-vencedores-no-essencia-do-vinho",
+	"url": "https://bebida.pt/news/top-10-vinhos-portugueses-vencedores-no-essencia-do-vinho/"
+}
