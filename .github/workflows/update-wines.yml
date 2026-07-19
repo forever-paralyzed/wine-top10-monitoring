@@ -2,15 +2,13 @@ name: Daily Wine Price Update
 
 on:
   schedule:
-    # Запуск каждый день в 12:00 UTC (это 13:00 по португальскому времени)
     - cron: '0 12 * * *'
-  workflow_dispatch: # Добавляет кнопку для ручного запуска в интерфейсе GitHub
+  workflow_dispatch:
 
 jobs:
   update-wines:
     runs-on: ubuntu-latest
 
-    # Даем роботу права на запись, чтобы он мог обновить файл wines.json в репозитории
     permissions:
       contents: write
 
@@ -21,7 +19,7 @@ jobs:
       - name: Устанавливаем Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Устанавливаем зависимости
         run: npm install
