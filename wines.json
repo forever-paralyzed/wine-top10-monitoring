@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T14:13:36.806Z",
+  "updatedAt": "2026-07-21T13:59:25.224Z",
   "wines": [
     {
       "overallPlace": 1,
@@ -8,10 +8,10 @@
       "producerRegion": "Douro",
       "enologist": "Taylor's / Kopke",
       "searchQuery": "Porto Tawny",
-      "name": "Porto Tawny",
-      "price": "Ошибка",
-      "buyUrl": "#",
-      "imageUrl": ""
+      "name": "1890 Burmester Novidade Porto",
+      "price": "1290",
+      "buyUrl": "https://www.garrafeiranacional.com/1890-burmester-novidade-porto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/3/1/3190002-0.jpg"
     },
     {
       "overallPlace": 2,
