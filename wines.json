@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T12:46:00.964Z",
+  "updatedAt": "2026-08-24T12:56:33.223Z",
   "wines": [
     {
       "overallPlace": 1,
@@ -56,10 +56,10 @@
       "producerRegion": "Douro",
       "enologist": "Barca Velha",
       "searchQuery": "Barca Velha",
-      "name": "1983 Barca Velha tinto",
-      "price": "850",
-      "buyUrl": "https://www.garrafeiranacional.com/1983-barca-velha-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6060060-0.jpg"
+      "name": "1991 Barca Velha tinto",
+      "price": "890",
+      "buyUrl": "https://www.garrafeiranacional.com/1991-barca-velha-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6060106-0.jpg"
     },
     {
       "overallPlace": 6,
