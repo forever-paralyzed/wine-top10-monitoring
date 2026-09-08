@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T17:33:37.170Z",
+  "updatedAt": "2026-09-08T16:17:29.455Z",
   "wines": [
     {
       "overallPlace": 1,
@@ -20,10 +20,10 @@
       "producerRegion": "Minho",
       "enologist": "Anselmo Mendes",
       "searchQuery": "Vinho Verde branco",
-      "name": "Casal Garcia branco",
-      "price": "3.95",
-      "buyUrl": "https://www.garrafeiranacional.com/casal-garcia-branco.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6080013-0.jpg"
+      "name": "Gazela branco",
+      "price": "3.5",
+      "buyUrl": "https://www.garrafeiranacional.com/gazela-branco.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6080018-0.jpg"
     },
     {
       "overallPlace": 3,
