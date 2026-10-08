@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T18:40:54.202Z",
+  "updatedAt": "2026-10-08T18:38:36.644Z",
   "wines": [
     {
       "overallPlace": 1,
@@ -8,10 +8,10 @@
       "producerRegion": "Douro",
       "enologist": "Taylor's / Kopke",
       "searchQuery": "Porto Tawny",
-      "name": "1890 Burmester Novidade Porto",
-      "price": "1290",
-      "buyUrl": "https://www.garrafeiranacional.com/1890-burmester-novidade-porto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/3/1/3190002-0.jpg"
+      "name": "Porto Tawny",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 2,
@@ -20,10 +20,10 @@
       "producerRegion": "Minho",
       "enologist": "Anselmo Mendes",
       "searchQuery": "Vinho Verde branco",
-      "name": "Casal Garcia branco",
-      "price": "3.95",
-      "buyUrl": "https://www.garrafeiranacional.com/casal-garcia-branco.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6080013-0.jpg"
+      "name": "Vinho Verde branco",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 3,
@@ -32,10 +32,10 @@
       "producerRegion": "Dão",
       "enologist": "Sogrape",
       "searchQuery": "Touriga Nacional tinto",
-      "name": "2013 Chryseia tinto",
-      "price": "139.95",
-      "buyUrl": "https://www.garrafeiranacional.com/2013-chryseia-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6060444-0.jpg"
+      "name": "2018 Quinta da Ponte Pedrinha Touriga Nacional tinto",
+      "price": "14.95",
+      "buyUrl": "https://www.garrafeiranacional.com/2018-quinta-da-ponte-pedrinha-touriga-nacional-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6042314-0.jpg?___store=default"
     },
     {
       "overallPlace": 4,
@@ -44,10 +44,10 @@
       "producerRegion": "Madeira",
       "enologist": "Justino's",
       "searchQuery": "Madeira doce",
-      "name": "Madeira Barbeito Doce 3 anos",
-      "price": "11.95",
-      "buyUrl": "https://www.garrafeiranacional.com/madeira-barbeito-doce-3-anos.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/9/1/9180146-0.jpg"
+      "name": "Madeira doce",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 5,
@@ -56,10 +56,10 @@
       "producerRegion": "Douro",
       "enologist": "Barca Velha",
       "searchQuery": "Barca Velha",
-      "name": "1991 Barca Velha tinto",
-      "price": "890",
-      "buyUrl": "https://www.garrafeiranacional.com/1991-barca-velha-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6060106-0.jpg"
+      "name": "1999 Barca Velha tinto",
+      "price": "895",
+      "buyUrl": "https://www.garrafeiranacional.com/1999-barca-velha-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6060081-0.jpg?___store=default"
     },
     {
       "overallPlace": 6,
@@ -68,10 +68,10 @@
       "producerRegion": "Alentejo",
       "enologist": "Pêra-Manca",
       "searchQuery": "Pera-Manca tinto",
-      "name": "2001 Pera-Manca tinto",
-      "price": "819",
-      "buyUrl": "https://www.garrafeiranacional.com/2001-pera-manca-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6010092-0.jpg"
+      "name": "2003 Pêra-Manca tinto",
+      "price": "799",
+      "buyUrl": "https://www.garrafeiranacional.com/2003-pera-manca-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6010180-0.jpg?___store=default"
     },
     {
       "overallPlace": 7,
@@ -80,10 +80,10 @@
       "producerRegion": "Dão",
       "enologist": "Classic Blend",
       "searchQuery": "Dao tinto Reserva",
-      "name": "2022 Cabriz Reserva tinto",
-      "price": "9.95",
-      "buyUrl": "https://www.garrafeiranacional.com/2022-cabriz-reserva-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6042747-0.jpg"
+      "name": "Dao tinto Reserva",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 8,
@@ -92,10 +92,10 @@
       "producerRegion": "Setúbal",
       "enologist": "José Maria da Fonseca",
       "searchQuery": "Moscatel de Setubal",
-      "name": "Moscatel de Setúbal José Maria da Fonseca Torna Viagem 50cl",
-      "price": "1390",
-      "buyUrl": "https://www.garrafeiranacional.com/moscatel-de-setubal-jose-maria-da-fonseca-torna-viagem-50cl.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/9/1/9120012-0.jpg"
+      "name": "Moscatel de Setúbal Dona Ermelinda",
+      "price": "6.95",
+      "buyUrl": "https://www.garrafeiranacional.com/moscatel-de-setubal-dona-ermelinda.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/9/1/9120034-0.jpg?___store=default"
     },
     {
       "overallPlace": 9,
@@ -104,10 +104,10 @@
       "producerRegion": "Bairrada",
       "enologist": "Filipa Pato",
       "searchQuery": "Baga tinto Bairrada",
-      "name": "2015 Niepoort Quinta de Baixo Poeirinho Baga tinto",
-      "price": "34.95",
-      "buyUrl": "https://www.garrafeiranacional.com/2015-niepoort-quinta-de-baixo-poeirinho-baga-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/6/0/6030463-0.jpg"
+      "name": "Baga tinto Bairrada",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 10,
@@ -116,10 +116,10 @@
       "producerRegion": "Portugal",
       "enologist": "Adega Velha",
       "searchQuery": "Aguardente Velha",
-      "name": "Aguardente Vínica Chancella Velha",
-      "price": "18.95",
-      "buyUrl": "https://www.garrafeiranacional.com/aguardente-chancella-velha.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/2675a1e349f73a25c4c6d972470331af/4/0/4010027-0.jpg"
+      "name": "Aguardente Velha",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     }
   ]
 }
