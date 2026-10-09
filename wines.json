@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T18:38:36.644Z",
+  "updatedAt": "2026-10-09T18:09:32.513Z",
   "wines": [
     {
       "overallPlace": 1,
@@ -32,10 +32,10 @@
       "producerRegion": "Dão",
       "enologist": "Sogrape",
       "searchQuery": "Touriga Nacional tinto",
-      "name": "2018 Quinta da Ponte Pedrinha Touriga Nacional tinto",
-      "price": "14.95",
-      "buyUrl": "https://www.garrafeiranacional.com/2018-quinta-da-ponte-pedrinha-touriga-nacional-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6042314-0.jpg?___store=default"
+      "name": "2022 Bago de Ouro Touriga Nacional tinto",
+      "price": "22",
+      "buyUrl": "https://www.garrafeiranacional.com/2022-bago-de-ouro-touriga-nacional-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/4/6430160-0.jpg?___store=default"
     },
     {
       "overallPlace": 4,
@@ -56,10 +56,10 @@
       "producerRegion": "Douro",
       "enologist": "Barca Velha",
       "searchQuery": "Barca Velha",
-      "name": "1999 Barca Velha tinto",
-      "price": "895",
-      "buyUrl": "https://www.garrafeiranacional.com/1999-barca-velha-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6060081-0.jpg?___store=default"
+      "name": "1991 Barca Velha tinto",
+      "price": "890",
+      "buyUrl": "https://www.garrafeiranacional.com/1991-barca-velha-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6060106-0.jpg?___store=default"
     },
     {
       "overallPlace": 6,
@@ -68,10 +68,10 @@
       "producerRegion": "Alentejo",
       "enologist": "Pêra-Manca",
       "searchQuery": "Pera-Manca tinto",
-      "name": "2003 Pêra-Manca tinto",
-      "price": "799",
-      "buyUrl": "https://www.garrafeiranacional.com/2003-pera-manca-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6010180-0.jpg?___store=default"
+      "name": "2001 Pera-Manca tinto",
+      "price": "819",
+      "buyUrl": "https://www.garrafeiranacional.com/2001-pera-manca-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6010092-0.jpg?___store=default"
     },
     {
       "overallPlace": 7,
@@ -92,10 +92,10 @@
       "producerRegion": "Setúbal",
       "enologist": "José Maria da Fonseca",
       "searchQuery": "Moscatel de Setubal",
-      "name": "Moscatel de Setúbal Dona Ermelinda",
-      "price": "6.95",
-      "buyUrl": "https://www.garrafeiranacional.com/moscatel-de-setubal-dona-ermelinda.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/9/1/9120034-0.jpg?___store=default"
+      "name": "Moscatel de Setúbal José Maria da Fonseca Torna Viagem 50cl",
+      "price": "1390",
+      "buyUrl": "https://www.garrafeiranacional.com/moscatel-de-setubal-jose-maria-da-fonseca-torna-viagem-50cl.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/9/1/9120012-0.jpg?___store=default"
     },
     {
       "overallPlace": 9,
