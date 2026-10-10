@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T18:09:32.513Z",
+  "updatedAt": "2026-10-10T17:08:55.706Z",
   "wines": [
     {
       "overallPlace": 1,
@@ -32,10 +32,10 @@
       "producerRegion": "Dão",
       "enologist": "Sogrape",
       "searchQuery": "Touriga Nacional tinto",
-      "name": "2022 Bago de Ouro Touriga Nacional tinto",
-      "price": "22",
-      "buyUrl": "https://www.garrafeiranacional.com/2022-bago-de-ouro-touriga-nacional-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/4/6430160-0.jpg?___store=default"
+      "name": "2020 UDACA Touriga Nacional tinto",
+      "price": "7.8",
+      "buyUrl": "https://www.garrafeiranacional.com/2020-udaca-touriga-nacional-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6042587-0.jpg?___store=default"
     },
     {
       "overallPlace": 4,
