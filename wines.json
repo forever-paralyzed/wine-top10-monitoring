@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T16:18:52.557Z",
+  "updatedAt": "2026-10-17T15:14:03.882Z",
   "wines": [
     {
       "overallPlace": 1,
@@ -8,10 +8,10 @@
       "producerRegion": "Douro",
       "enologist": "Taylor's / Kopke",
       "searchQuery": "Porto Tawny",
-      "name": "Romariz Santo António Porto",
-      "price": "290",
-      "buyUrl": "https://www.garrafeiranacional.com/romariz-santo-antonio-porto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/3/3/3330015-0.jpg?___store=default"
+      "name": "Niepoort VV Porto",
+      "price": "1990",
+      "buyUrl": "https://www.garrafeiranacional.com/niepoort-vv-porto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/3/0/3090003-0.jpg?___store=default"
     },
     {
       "overallPlace": 2,
@@ -56,10 +56,10 @@
       "producerRegion": "Douro",
       "enologist": "Barca Velha",
       "searchQuery": "Barca Velha",
-      "name": "1995 Barca Velha tinto",
-      "price": "890",
-      "buyUrl": "https://www.garrafeiranacional.com/1995-barca-velha-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6060082-0.jpg?___store=default"
+      "name": "1999 Barca Velha tinto",
+      "price": "895",
+      "buyUrl": "https://www.garrafeiranacional.com/1999-barca-velha-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6060081-0.jpg?___store=default"
     },
     {
       "overallPlace": 6,
@@ -68,10 +68,10 @@
       "producerRegion": "Alentejo",
       "enologist": "Pêra-Manca",
       "searchQuery": "Pera-Manca tinto",
-      "name": "2007 Pêra-Manca tinto",
-      "price": "779",
-      "buyUrl": "https://www.garrafeiranacional.com/2007-pera-manca-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6010137-0.jpg?___store=default"
+      "name": "2003 Pêra-Manca tinto",
+      "price": "799",
+      "buyUrl": "https://www.garrafeiranacional.com/2003-pera-manca-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6010180-0.jpg?___store=default"
     },
     {
       "overallPlace": 7,
@@ -80,10 +80,10 @@
       "producerRegion": "Dão",
       "enologist": "Classic Blend",
       "searchQuery": "Dao tinto Reserva",
-      "name": "2019 Quinta das Mestras Reserva Oaked Edição Limitada tinto",
-      "price": "16",
-      "buyUrl": "https://www.garrafeiranacional.com/2019-quinta-das-mestras-reserva-oaked-edic-o-limitada-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6042149-0_.jpg?___store=default"
+      "name": "2014 Terras de Viriato Reserva tinto",
+      "price": "4.65",
+      "buyUrl": "https://www.garrafeiranacional.com/2014-terras-de-viriato-reserva-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6042268-0.jpg?___store=default"
     },
     {
       "overallPlace": 8,
@@ -92,10 +92,10 @@
       "producerRegion": "Setúbal",
       "enologist": "José Maria da Fonseca",
       "searchQuery": "Moscatel de Setubal",
-      "name": "1931 Moscatel Roxo de Setúbal José Maria da Fonseca",
-      "price": "899",
-      "buyUrl": "https://www.garrafeiranacional.com/1931-moscatel-roxo-de-setubal-jose-maria-da-fonseca.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/9/1/9120064-0.jpg?___store=default"
+      "name": "Moscatel de Setúbal Dona Ermelinda",
+      "price": "6.95",
+      "buyUrl": "https://www.garrafeiranacional.com/moscatel-de-setubal-dona-ermelinda.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/9/1/9120034-0.jpg?___store=default"
     },
     {
       "overallPlace": 9,
