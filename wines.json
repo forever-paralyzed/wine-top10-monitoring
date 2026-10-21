@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T16:33:34.185Z",
+  "updatedAt": "2026-10-21T16:51:08.844Z",
   "wines": [
     {
       "overallPlace": 1,
@@ -80,10 +80,10 @@
       "producerRegion": "Dão",
       "enologist": "Classic Blend",
       "searchQuery": "Dao tinto Reserva",
-      "name": "2016 Quinta das Mestras Reserva Oaked Limited Edition tinto",
-      "price": "24.45",
-      "buyUrl": "https://www.garrafeiranacional.com/2016-quinta-das-mestras-reserva-oaked-limited-edition-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6041994-0.jpg?___store=default"
+      "name": "2010 Quinta do Carvalhão Torto Reserva tinto",
+      "price": "16.5",
+      "buyUrl": "https://www.garrafeiranacional.com/2010-quinta-do-carvalh-o-torto-reserva-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/m/p/mpcar00003-0_1.jpg?___store=default"
     },
     {
       "overallPlace": 8,
@@ -116,10 +116,10 @@
       "producerRegion": "Portugal",
       "enologist": "Adega Velha",
       "searchQuery": "Aguardente Velha",
-      "name": "Aguardente Vínica Chancella Velha",
-      "price": "18.95",
-      "buyUrl": "https://www.garrafeiranacional.com/aguardente-chancella-velha.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/4/0/4010027-0.jpg?___store=default"
+      "name": "Aguardente Vínica Velha Palácio da Brejoeira Alvarinho",
+      "price": "124.95",
+      "buyUrl": "https://www.garrafeiranacional.com/aguardente-vinica-velha-palacio-da-brejoeira-alvarinho.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/4/0/4010050-0.jpg?___store=default"
     }
   ]
 }
