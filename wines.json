@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T16:51:14.978Z",
+  "updatedAt": "2026-10-23T16:42:33.912Z",
   "wines": [
     {
       "overallPlace": 1,
@@ -32,10 +32,10 @@
       "producerRegion": "Dão",
       "enologist": "Sogrape",
       "searchQuery": "Touriga Nacional tinto",
-      "name": "2016 Blog by Tiago Cabaço tinto 12L",
-      "price": "1150",
-      "buyUrl": "https://www.garrafeiranacional.com/2016-blog-by-tiago-cabaco-tinto-12l.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6010674-0.jpg?___store=default"
+      "name": "2016 Chryseia tinto",
+      "price": "148.95",
+      "buyUrl": "https://www.garrafeiranacional.com/2016-chryseia-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6060489-0.jpg?___store=default"
     },
     {
       "overallPlace": 4,
@@ -44,10 +44,10 @@
       "producerRegion": "Madeira",
       "enologist": "Justino's",
       "searchQuery": "Madeira doce",
-      "name": "1928 Madeira Izidro Quinado M Doce",
-      "price": "395",
-      "buyUrl": "https://www.garrafeiranacional.com/1928-madeira-izidro-quinado-m-doce.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/9/1/9180263-0.jpg?___store=default"
+      "name": "Madeira Blandy's Malmsey Doce 10 anos",
+      "price": "38.95",
+      "buyUrl": "https://www.garrafeiranacional.com/madeira-blandy-s-malmsey-rich-10-anos.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/9/1/9180437-0.jpg?___store=default"
     },
     {
       "overallPlace": 5,
@@ -56,10 +56,10 @@
       "producerRegion": "Douro",
       "enologist": "Barca Velha",
       "searchQuery": "Barca Velha",
-      "name": "1983 Barca Velha tinto",
-      "price": "850",
-      "buyUrl": "https://www.garrafeiranacional.com/1983-barca-velha-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6060060-0.jpg?___store=default"
+      "name": "1991 Barca Velha tinto",
+      "price": "890",
+      "buyUrl": "https://www.garrafeiranacional.com/1991-barca-velha-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6060106-0.jpg?___store=default"
     },
     {
       "overallPlace": 6,
@@ -68,10 +68,10 @@
       "producerRegion": "Alentejo",
       "enologist": "Pêra-Manca",
       "searchQuery": "Pera-Manca tinto",
-      "name": "2001 Pera-Manca tinto",
-      "price": "819",
-      "buyUrl": "https://www.garrafeiranacional.com/2001-pera-manca-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6010092-0.jpg?___store=default"
+      "name": "2018 Pêra-Manca tinto",
+      "price": "449.9",
+      "buyUrl": "https://www.garrafeiranacional.com/2018-pera-manca-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6013411-0.jpg?___store=default"
     },
     {
       "overallPlace": 7,
@@ -92,10 +92,10 @@
       "producerRegion": "Setúbal",
       "enologist": "José Maria da Fonseca",
       "searchQuery": "Moscatel de Setubal",
-      "name": "Moscatel de Setúbal José Maria da Fonseca Torna Viagem 50cl",
-      "price": "1390",
-      "buyUrl": "https://www.garrafeiranacional.com/moscatel-de-setubal-jose-maria-da-fonseca-torna-viagem-50cl.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/9/1/9120012-0.jpg?___store=default"
+      "name": "Moscatel Roxo de Setúbal Bacalhôa 5 anos",
+      "price": "15.95",
+      "buyUrl": "https://www.garrafeiranacional.com/moscatel-roxo-de-setubal-bacalhoa-5-anos.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/9/1/9120156-0.jpg?___store=default"
     },
     {
       "overallPlace": 9,
@@ -116,10 +116,10 @@
       "producerRegion": "Portugal",
       "enologist": "Adega Velha",
       "searchQuery": "Aguardente Velha",
-      "name": "Aguardente Vínica Velha Palácio da Brejoeira Alvarinho",
-      "price": "124.95",
-      "buyUrl": "https://www.garrafeiranacional.com/aguardente-vinica-velha-palacio-da-brejoeira-alvarinho.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/4/0/4010050-0.jpg?___store=default"
+      "name": "Aguardente Vínica CRF Velha Reserva",
+      "price": "19.95",
+      "buyUrl": "https://www.garrafeiranacional.com/aguardente-vinica-crf-velha-reserva.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/4/0/4010031-0.jpg?___store=default"
     }
   ]
 }
