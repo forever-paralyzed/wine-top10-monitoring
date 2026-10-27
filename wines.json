@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T18:27:21.653Z",
+  "updatedAt": "2026-10-27T17:45:07.780Z",
   "wines": [
     {
       "overallPlace": 1,
@@ -104,10 +104,10 @@
       "producerRegion": "Bairrada",
       "enologist": "Filipa Pato",
       "searchQuery": "Baga tinto Bairrada",
-      "name": "2014 Luis Pato Vinhas Velhas tinto",
-      "price": "28.95",
-      "buyUrl": "https://www.garrafeiranacional.com/2014-luis-pato-vinhas-velhas-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/4/6400116-0.jpg?___store=default"
+      "name": "2017 São Domingos Grande Reserva tinto",
+      "price": "95.9",
+      "buyUrl": "https://www.garrafeiranacional.com/2017-s-o-domingos-grande-reserva-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/4/6400424-0.jpg?___store=default"
     },
     {
       "overallPlace": 10,
