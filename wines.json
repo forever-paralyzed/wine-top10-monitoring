@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T18:52:11.544Z",
+  "updatedAt": "2026-11-22T19:13:56.285Z",
   "wines": [
     {
       "overallPlace": 1,
@@ -68,10 +68,10 @@
       "producerRegion": "Alentejo",
       "enologist": "Pêra-Manca",
       "searchQuery": "Pera-Manca tinto",
-      "name": "2001 Pera-Manca tinto",
-      "price": "819",
-      "buyUrl": "https://www.garrafeiranacional.com/2001-pera-manca-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6010092-0.jpg?___store=default"
+      "name": "1995 Pera-Manca tinto",
+      "price": "849",
+      "buyUrl": "https://www.garrafeiranacional.com/1995-pera-manca-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6010161-0_2.png?___store=default"
     },
     {
       "overallPlace": 7,
@@ -104,10 +104,10 @@
       "producerRegion": "Bairrada",
       "enologist": "Filipa Pato",
       "searchQuery": "Baga tinto Bairrada",
-      "name": "2015 Niepoort Quinta de Baixo Poeirinho Baga tinto 3L",
-      "price": "234.95",
-      "buyUrl": "https://www.garrafeiranacional.com/2015-niepoort-quinta-de-baixo-poeirinho-baga-tinto-3l.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6030728-0.jpg?___store=default"
+      "name": "2014 Luis Pato Vinhas Velhas tinto",
+      "price": "28.95",
+      "buyUrl": "https://www.garrafeiranacional.com/2014-luis-pato-vinhas-velhas-tinto.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/4/6400116-0.jpg?___store=default"
     },
     {
       "overallPlace": 10,
@@ -116,10 +116,10 @@
       "producerRegion": "Portugal",
       "enologist": "Adega Velha",
       "searchQuery": "Aguardente Velha",
-      "name": "Aguardente Vínica Velha Palácio da Brejoeira Alvarinho",
-      "price": "124.95",
-      "buyUrl": "https://www.garrafeiranacional.com/aguardente-vinica-velha-palacio-da-brejoeira-alvarinho.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/4/0/4010050-0.jpg?___store=default"
+      "name": "Aguardente Vínica Chancella Velha",
+      "price": "18.95",
+      "buyUrl": "https://www.garrafeiranacional.com/aguardente-chancella-velha.html",
+      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/4/0/4010027-0.jpg?___store=default"
     }
   ]
 }
