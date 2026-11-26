@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T21:19:27.298Z",
+  "updatedAt": "2026-11-26T21:08:11.438Z",
   "wines": [
     {
       "overallPlace": 1,
@@ -8,10 +8,10 @@
       "producerRegion": "Douro",
       "enologist": "Taylor's / Kopke",
       "searchQuery": "Porto Tawny",
-      "name": "Churchill's Fine Tawny Porto",
-      "price": "10.95",
-      "buyUrl": "https://www.garrafeiranacional.com/churchill-s-fine-tawny-porto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/3/5/3560044-00.jpg?___store=default"
+      "name": "Porto Tawny",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 2,
@@ -20,10 +20,10 @@
       "producerRegion": "Minho",
       "enologist": "Anselmo Mendes",
       "searchQuery": "Vinho Verde branco",
-      "name": "2023 Tau branco",
-      "price": "15.95",
-      "buyUrl": "https://www.garrafeiranacional.com/2023-tau-branco.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6081050-0.jpg?___store=default"
+      "name": "Vinho Verde branco",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 3,
@@ -32,10 +32,10 @@
       "producerRegion": "Dão",
       "enologist": "Sogrape",
       "searchQuery": "Touriga Nacional tinto",
-      "name": "2022 Crasto Superior tinto 1,5L",
-      "price": "46.95",
-      "buyUrl": "https://www.garrafeiranacional.com/2022-crasto-superior-tinto-1-5l.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6065050-0.jpg?___store=default"
+      "name": "Touriga Nacional tinto",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 4,
@@ -44,10 +44,10 @@
       "producerRegion": "Madeira",
       "enologist": "Justino's",
       "searchQuery": "Madeira doce",
-      "name": "Madeira J. Faria & Filhos Doce (garrafa empalhada)",
-      "price": "39.95",
-      "buyUrl": "https://www.garrafeiranacional.com/madeira-j-faria-filhos-doce-garrafa-empalhada.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/9/1/9181030-0.jpg?___store=default"
+      "name": "Madeira doce",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 5,
@@ -56,10 +56,10 @@
       "producerRegion": "Douro",
       "enologist": "Barca Velha",
       "searchQuery": "Barca Velha",
-      "name": "1999 Barca Velha tinto",
-      "price": "895",
-      "buyUrl": "https://www.garrafeiranacional.com/1999-barca-velha-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6060081-0.jpg?___store=default"
+      "name": "Barca Velha",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 6,
@@ -68,10 +68,10 @@
       "producerRegion": "Alentejo",
       "enologist": "Pêra-Manca",
       "searchQuery": "Pera-Manca tinto",
-      "name": "2007 Pêra-Manca tinto",
-      "price": "779",
-      "buyUrl": "https://www.garrafeiranacional.com/2007-pera-manca-tinto.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6010137-0.jpg?___store=default"
+      "name": "Pera-Manca tinto",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 7,
@@ -80,10 +80,10 @@
       "producerRegion": "Dão",
       "enologist": "Classic Blend",
       "searchQuery": "Dao tinto Reserva",
-      "name": "2022 Taboadella Touriga Nacional Reserva tinto 1,5L",
-      "price": "41.95",
-      "buyUrl": "https://www.garrafeiranacional.com/2022-taboadella-touriga-nacional-reserva-tinto-1-5l.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/0/6042734-0.jpg?___store=default"
+      "name": "Dao tinto Reserva",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 8,
@@ -92,10 +92,10 @@
       "producerRegion": "Setúbal",
       "enologist": "José Maria da Fonseca",
       "searchQuery": "Moscatel de Setubal",
-      "name": "2019 Moscatel de Setúbal Quinta do Piloto Superior 50cl",
-      "price": "13.95",
-      "buyUrl": "https://www.garrafeiranacional.com/2019-moscatel-de-setubal-quinta-do-piloto-superior-50cl.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/9/1/9120462-0.jpg?___store=default"
+      "name": "Moscatel de Setubal",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 9,
@@ -104,10 +104,10 @@
       "producerRegion": "Bairrada",
       "enologist": "Filipa Pato",
       "searchQuery": "Baga tinto Bairrada",
-      "name": "2023 Encosta da Criveira Reserva tinto 1,5L",
-      "price": "19.9",
-      "buyUrl": "https://www.garrafeiranacional.com/2023-encosta-da-criveira-reserva-tinto-1-5l.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/6/4/6400832-0.jpg?___store=default"
+      "name": "Baga tinto Bairrada",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     },
     {
       "overallPlace": 10,
@@ -116,10 +116,10 @@
       "producerRegion": "Portugal",
       "enologist": "Adega Velha",
       "searchQuery": "Aguardente Velha",
-      "name": "Aguardente Bagaceira Treze Velha Reserva Especial 75cl",
-      "price": "44.9",
-      "buyUrl": "https://www.garrafeiranacional.com/aguardente-bagaceira-treze-velha-reserva-especial-75cl.html",
-      "imageUrl": "https://www.garrafeiranacional.com/media/catalog/product/cache/4ae8a1d90cde1bbfa43e717fa0766738/4/9/4991524-0.jpg?___store=default"
+      "name": "Aguardente Velha",
+      "price": "Н/Д",
+      "buyUrl": "#",
+      "imageUrl": ""
     }
   ]
 }
